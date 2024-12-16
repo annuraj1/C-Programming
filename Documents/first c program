@@ -1,0 +1,10 @@
+# include < stdio.h>
+
+int main()
+     int myFavoriteNumber=0;
+	 
+	 printf("Please enter your favourite number/n");
+	 scan f("%d" and my favourite number):
+	 print f("You entered number:%d\n",my favourite number
+	 
+	 return 0;

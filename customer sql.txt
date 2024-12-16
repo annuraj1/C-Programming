@@ -1,0 +1,1 @@
+CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country
